@@ -15,6 +15,15 @@
 </a>
 <img src="https://komarev.com/ghpvc/?username=Sesss123&label=VISITORS&style=for-the-badge&color=0ea5e9"/>
 <img src="https://img.shields.io/github/followers/Sesss123?label=FOLLOWERS&style=for-the-badge&color=0ea5e9"/>
+<a href="mailto:pathiranasehas988@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8"/>
+</a>
+<a href="https://sehas-portfolio.onrender.com">
+<img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=googlechrome&logoColor=38BDF8"/>
+</a>
+<a href="https://github.com/Sesss123/Sesss123/raw/main/sehas_pathirana_cv.pdf">
+<img src="https://img.shields.io/badge/RESUME-0D1117?style=for-the-badge&logo=readdotcv&logoColor=38BDF8"/>
+</a>
 
 <br><br>
 
@@ -23,6 +32,28 @@
 **Cyber Security Student × Mobile Developer × Creative Builder**
 
 *I enjoy understanding how technology works, building useful experiences, and learning how to make them more secure.*
+
+</div>
+
+---
+
+<div align="center">
+
+## 💼 Open to Work
+
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_INTERNSHIPS_%26_JUNIOR_ROLES-0D1117?style=for-the-badge&labelColor=0D1117&color=22c55e"/>
+
+**Full-stack & mobile developer** with a Play Store app past **1M+ downloads**, hands-on Firebase/backend work, and a live intern track record — now studying **Cyber Security (BSc Hons, Staffordshire University)** to build things that are secure by design, not as an afterthought.
+
+<a href="https://sehas-portfolio.onrender.com">
+<img src="https://img.shields.io/badge/VIEW_PORTFOLIO-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+<a href="https://github.com/Sesss123/Sesss123/raw/main/sehas_pathirana_cv.pdf">
+<img src="https://img.shields.io/badge/DOWNLOAD_RESUME-0ea5e9?style=for-the-badge&logo=readdotcv&logoColor=white"/>
+</a>
+<a href="mailto:pathiranasehas988@gmail.com">
+<img src="https://img.shields.io/badge/GET_IN_TOUCH-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
@@ -53,16 +84,18 @@ mission:
 
 ### 🎯 Right Now
 
-🔐 Exploring **Cyber Security**  
-📱 Building with **Flutter & Dart**  
-🐍 Improving **Python**  
-☁️ Learning **AWS & Cloud**  
-🌐 Understanding **Networking**  
-💎 Developing **Hidden Gems SL**
+```ini
+[ RIGHT NOW ]
 
-<br>
+🔐 cyber_security  = "exploring"
+📱 flutter_dart    = "building"
+🐍 python          = "improving"
+☁️ aws_cloud       = "learning"
+🌐 networking      = "learning"
+💎 hidden_gems_sl  = "developing"
 
-**Status:** `Always Learning...` 🚀
+status = "always learning" 🚀
+```
 
 </td>
 </tr>
@@ -84,22 +117,22 @@ mission:
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/NETWORK_SECURITY-0D1117?style=for-the-badge&logo=cisco&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/KALI_LINUX-0D1117?style=for-the-badge&logo=kalilinux&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/WEB_SECURITY-0D1117?style=for-the-badge&logo=hackaday&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/AWS_CLOUD-0D1117?style=for-the-badge&logo=amazonaws&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/NETWORK_SECURITY-0ea5e9?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/KALI_LINUX-0ea5e9?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/WEB_SECURITY-0ea5e9?style=for-the-badge&logo=hackaday&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_CLOUD-0ea5e9?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
 <br><br>
 
 ```text
 [ SYSTEM ONLINE ]
-
-SECURITY     █████████████████░░░  LEARNING
-FLUTTER      ████████████████░░░░  BUILDING
-PYTHON       ██████████████░░░░░░  IMPROVING
-AWS          ████████████░░░░░░░░  EXPLORING
-NETWORKING   █████████████░░░░░░░  LEARNING
 ```
+
+<img src="https://readme-components.vercel.app/api?component=linearprogress&skill=Security&value=85"/>
+<img src="https://readme-components.vercel.app/api?component=linearprogress&skill=Flutter&value=80"/>
+<img src="https://readme-components.vercel.app/api?component=linearprogress&skill=Python&value=70"/>
+<img src="https://readme-components.vercel.app/api?component=linearprogress&skill=AWS&value=60"/>
+<img src="https://readme-components.vercel.app/api?component=linearprogress&skill=Networking&value=65"/>
 
 </div>
 
@@ -123,6 +156,10 @@ NETWORKING   █████████████░░░░░░░  LEARN
 ⚡ Performance & usability  
 🚀 Real-world product development
 
+<a href="https://github.com/Sesss123/hiden_gem-app">
+<img src="https://img.shields.io/badge/VIEW_REPO-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8"/>
+</a>
+
 </td>
 <td width="32%" align="center">
 
@@ -143,8 +180,16 @@ NETWORKING   █████████████░░░░░░░  LEARN
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sesss123&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&text_color=C9D1D9&icon_color=38BDF8" alt="GitHub statistics"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sesss123&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=C9D1D9" alt="Most used languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sesss123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&cache_seconds=1800" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sesss123&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=C9D1D9&cache_seconds=1800" alt="Most used languages"/>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sesss123&theme=tokyonight&hide_border=true&background=00000000&ring=0EA5E9&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub streak stats"/>
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sesss123&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" alt="GitHub trophies"/>
 
 </div>
 
@@ -164,8 +209,14 @@ NETWORKING   █████████████░░░░░░░  LEARN
 
 <div align="center">
 
-<a href="mailto:pathiranasehas3@gmail.com">
+<a href="mailto:pathiranasehas988@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-ME-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8"/>
+</a>
+<a href="https://sehas-portfolio.onrender.com">
+<img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=googlechrome&logoColor=38BDF8"/>
+</a>
+<a href="https://github.com/Sesss123/Sesss123/raw/main/sehas_pathirana_cv.pdf">
+<img src="https://img.shields.io/badge/RESUME-0D1117?style=for-the-badge&logo=readdotcv&logoColor=38BDF8"/>
 </a>
 <a href="https://github.com/Sesss123">
 <img src="https://img.shields.io/badge/FOLLOW-ON_GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8"/>
